@@ -1,0 +1,7 @@
+Manchar Lake Flood Analysis - June vs August 2022
+==================================================
+Lake area before (June 2022): 1015720 pixels
+Lake area after (August 2022): 1494165 pixels
+Newly flooded area: 853640 pixels
+Percent of region newly flooded: 19.38 percent
+Lake grew by: 47.1 percent
