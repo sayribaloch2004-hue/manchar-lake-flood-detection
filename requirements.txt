@@ -1,0 +1,6 @@
+streamlit
+numpy
+rasterio
+matplotlib
+scipy
+scikit-image
